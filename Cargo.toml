@@ -1,0 +1,11 @@
+[package]
+name = "simple_archiver"
+version = "0.1.0"
+edition = "2021"
+description = "Простий консольний архіватор файлів (Gzip) для курсової роботи"
+
+[dependencies]
+# Алгоритм стиснення Gzip/Deflate
+flate2 = "1.0"
+# Часові мітки для логера
+chrono = "0.4"

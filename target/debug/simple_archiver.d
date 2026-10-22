@@ -1,0 +1,1 @@
+C:\Users\Kolya\Downloads\Курсова\ робота\target\debug\simple_archiver.exe: C:\Users\Kolya\Downloads\Курсова\ робота\src\logger.rs C:\Users\Kolya\Downloads\Курсова\ робота\src\main.rs C:\Users\Kolya\Downloads\Курсова\ робота\src\processor.rs
